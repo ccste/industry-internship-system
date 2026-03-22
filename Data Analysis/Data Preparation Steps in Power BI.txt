@@ -1,0 +1,20 @@
+ID Column Type Conversion
+Student ID: Whole Number --> Text
+
+
+Date Column Type Conversion
+Date of Birth: Text --> Date
+Offer Date: Text --> Date
+
+
+Change Column Name
+First Preference --> First Preference for Placement
+Second Preference --> Second Preference for Placement
+
+
+Measure Creation
+Created measures for Total Students, Total Placements, Placement Rate, For Review Applications, Available Applications, Pending Applications, Students per Internship Option, Students per Company Preference
+
+
+To prepare the Internship Options and Company Preferences fields for analysis, I created two auxiliary tables where each option is split into separate rows linked by Student ID, then established one-to-many relationships with the main table(Students Profile) in Power BI’s model view.
+
