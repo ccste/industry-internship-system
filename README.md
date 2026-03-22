@@ -58,7 +58,7 @@ Quick access to key project materials and demonstrations:
 - [Postman API Testing Demo Video](https://youtu.be/pb1lcpSGEK4)
 
 ### Data Analysis
-- Power BI Dashboard Demo Video
+- [Power BI Dashboard Demo Video](https://youtu.be/TZvMrq6xTUo)
 
 ### Final Presentation
 - [Internship Presentation Slides](https://www.canva.com/design/DAGXAVCg5YA/Xgwi2pHPz74B4OPRV3HUBQ/edit?utm_content=DAGXAVCg5YA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
