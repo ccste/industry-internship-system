@@ -1,0 +1,1 @@
+Note: All the pictures needed to use during the whole app development process are in this folder, basically they are svg format. If you open from the browser to find nothing, the reason is that the color of the picture is pure white (#ffffff). It is recommended to view the image on a black background in the image editor software.
