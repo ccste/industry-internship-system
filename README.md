@@ -40,6 +40,31 @@ My work covered multiple phases of the project, from designing the user interfac
 
 <br>
 
+## 🔗 External Links
+
+Quick access to key project materials and demonstrations:
+
+### Project Documentation
+- [Project Proposal](https://docs.google.com/document/d/1flBsKFUSbt-YUUua-Khtr6jCSWSVnC9YkDWj1EaFTtg/edit?usp=sharing)  
+- [Project Proposal Slides](https://docs.google.com/presentation/d/18Vju0tYJybqZhA8r-M3JjgIxQj-szoSQOmBCOyQk2Sg/edit?usp=sharing)  
+
+### Design
+- [Figma – Logo, Wireframes, and Mockups](https://www.figma.com/design/vATuvxdandp8M7sQSNoK3B/Industry-Internship-System-Wireframes-and-Mockups?node-id=0-1&t=7NhRLkCEPwD8b84m-1)  
+- [Project Poster](https://www.canva.com/design/DAGWzW8qn3U/mgL3Xq27kosNB7BKuIjG-A/edit?utm_content=DAGWzW8qn3U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+
+### Testing
+- [API Specification Document](https://drive.google.com/file/d/1ilHWpf3ycxPbuTL2rkejZj4kBtRRWv9M/view?usp=sharing)  
+- [API Test Cases](https://docs.google.com/spreadsheets/d/1SsDAJyjk1Yz50dOcq2dMLh1GO-V5Hx3LPoIL9Ql-XqI/edit?usp=sharing)  
+- Postman API Testing Demo Video
+
+### Data Analysis
+- Power BI Dashboard Demo Video
+
+### Final Presentation
+- [Internship Presentation Slides](https://www.canva.com/design/DAGXAVCg5YA/Xgwi2pHPz74B4OPRV3HUBQ/edit?utm_content=DAGXAVCg5YA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+<br>
+
 ## 🚀 What This Repository Demonstrates
 
 This repository is intended to show potential employers that I can contribute across multiple stages of a software project.
@@ -170,29 +195,6 @@ Through this project, I contributed work that supported:
 - Dashboard-based decision support for internship insights  
 
 This project strengthened my ability to work across **design, testing, and data analysis** within a single system.
-
-<br>
-
-## 🔗 External Links
-
-### Project Documentation
-- [Project Proposal](https://docs.google.com/document/d/1flBsKFUSbt-YUUua-Khtr6jCSWSVnC9YkDWj1EaFTtg/edit?usp=sharing)  
-- [Project Proposal Slides](https://docs.google.com/presentation/d/18Vju0tYJybqZhA8r-M3JjgIxQj-szoSQOmBCOyQk2Sg/edit?usp=sharing)  
-
-### Design
-- [Figma – Logo, Wireframes, and Mockups](https://www.figma.com/design/vATuvxdandp8M7sQSNoK3B/Industry-Internship-System-Wireframes-and-Mockups?node-id=0-1&t=7NhRLkCEPwD8b84m-1)  
-- [Project Poster](https://www.canva.com/design/DAGWzW8qn3U/mgL3Xq27kosNB7BKuIjG-A/edit?utm_content=DAGWzW8qn3U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
-
-### Testing
-- [API Specification Document](https://drive.google.com/file/d/1ilHWpf3ycxPbuTL2rkejZj4kBtRRWv9M/view?usp=sharing)  
-- [API Test Cases](https://docs.google.com/spreadsheets/d/1SsDAJyjk1Yz50dOcq2dMLh1GO-V5Hx3LPoIL9Ql-XqI/edit?usp=sharing)  
-- Postman API Testing Demo Video
-
-### Data Analysis
-- Power BI Dashboard Demo Video
-
-### Final Presentation
-- [Internship Presentation Slides](https://www.canva.com/design/DAGXAVCg5YA/Xgwi2pHPz74B4OPRV3HUBQ/edit?utm_content=DAGXAVCg5YA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <br>
 
