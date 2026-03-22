@@ -55,7 +55,7 @@ Quick access to key project materials and demonstrations:
 ### Testing
 - [API Specification Document](https://drive.google.com/file/d/1ilHWpf3ycxPbuTL2rkejZj4kBtRRWv9M/view?usp=sharing)  
 - [API Test Cases](https://docs.google.com/spreadsheets/d/1SsDAJyjk1Yz50dOcq2dMLh1GO-V5Hx3LPoIL9Ql-XqI/edit?usp=sharing)  
-- Postman API Testing Demo Video
+- [Postman API Testing Demo Video](https://youtu.be/pb1lcpSGEK4)
 
 ### Data Analysis
 - Power BI Dashboard Demo Video
